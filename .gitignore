@@ -33,3 +33,6 @@
 
 # New
 /build/
+
+# Remove it (its for local copy!)
+/.vscode/
