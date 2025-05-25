@@ -13,7 +13,7 @@
 - std::weak_ordering::equivalent
 - std::weak_ordering::greater
 - std::weak_ordering::less
-
+ 
 3. partial:
 - std::partial_ordering::equivalent
 - std::partial_ordering::greater
