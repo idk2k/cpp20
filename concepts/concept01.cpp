@@ -2,6 +2,6 @@
 
 int main() {
 	std::cout << 1;
-    std::cout << "changes into concept01 ... man..." << std::endl;
+    std::cout << "another changes into concept1" << std::endl;
     return 0;
 }
