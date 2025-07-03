@@ -2,6 +2,6 @@
 
 int main() {
 	std::cout << 1;
-    std::cout << "another changes into concept1" << std::endl;
+    std::cout << "concept01 has been edited" << std::endl;
     return 0;
 }
