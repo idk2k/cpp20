@@ -2,6 +2,6 @@
 
 int main() {
 	std::cout << 1;
-    std::cout << "test ogo" << std::endl;
+    std::cout << "first" << std::endl;
     return 0;
 }
